@@ -26,11 +26,11 @@ MyCCAngel is a healthcare platform I led from concept through a substantial work
 
 | Document | Description |
 |---|---|
-| [📊 Case Study — Slide Deck](https://github.com/ali0/ali0/blob/main/portfolio/MyCCAngel_CaseStudy_Deck.pdf) | Visual walkthrough of the product, AI features, and design process |
-| [📝 Case Study — One Pager](https://github.com/ali0/ali0/blob/main/portfolio/MyCCAngel_CaseStudy_OnePager.pdf) | Concise summary of role, AI work, and key decisions |
-| [📋 Case Study — Full](https://github.com/ali0/ali0/blob/main/portfolio/MyCCAngel_CaseStudy_Full.pdf) | Detailed end-to-end product case study |
-| [📐 Product Requirements Document (PRD)](https://github.com/ali0/ali0/blob/main/portfolio/MyCCAngel_PRD.pdf) | Full feature specifications with build status |
-| [🗺️ Product Roadmap](https://github.com/ali0/ali0/blob/main/portfolio/MyCCAngel_Roadmap.pdf) | Original MVP strategy and 6-phase roadmap |
+| [📊 Case Study — Slide Deck](SupportingDocs/MyCCAngel_CaseStudy_Deck.pdf) | Visual walkthrough of the product, AI features, and design process |
+| [📝 Case Study — One Pager](SupportingDocs/MyCCAngel_CaseStudy_OnePager.pdf) | Concise summary of role, AI work, and key decisions |
+| [📋 Case Study — Full](SupportingDocs/MyCCAngel_CaseStudy_Full.pdf) | Detailed end-to-end product case study |
+| [📐 Product Requirements Document (PRD)](SupportingDocs/MyCCAngel_PRD.pdf) | Full feature specifications with build status |
+| [🗺️ Product Roadmap](SupportingDocs/MyCCAngel_Roadmap.pdf) | Original MVP strategy and 6-phase roadmap |
 
 ---
 
