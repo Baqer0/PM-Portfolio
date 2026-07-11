@@ -39,7 +39,7 @@ MyCCAngel is a healthcare platform I led from concept through a substantial work
 <table>
   <tr>
     <td align="center">
-      <a href="https://ibd-medical-report-classifier.onrender.com">
+      <a href="https://ibd-medicalreport-classifier.onrender.com/">
         <img src="asset/machine-learning.png" width="250" height="150" alt="IBD Classifier"/><br/>
         <b>IBD Medical Report Classifier</b>
       </a>
@@ -91,4 +91,4 @@ English (fluent) · Arabic (fluent)
 
 - 💼 **LinkedIn:** [linkedin.com/in/baqeralshakhs](https://www.linkedin.com/in/baqeralshakhs)
 - 📧 **Email:** [baqeralshakhs@gmail.com](mailto:baqeralshakhs@gmail.com)
-- 🌐 **Live demo:** [IBD Medical Report Classifier](https://ibd-medical-report-classifier.onrender.com)
+- 🌐 **Live demo:** [IBD Medical Report Classifier](https://ibd-medicalreport-classifier.onrender.com/)
