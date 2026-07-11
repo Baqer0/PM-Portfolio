@@ -15,7 +15,7 @@ Currently based in Dublin, Ireland. Fluent in English and Arabic. Experience acr
 MyCCAngel is a healthcare platform I led from concept through a substantial working build — product strategy, UX direction, data schema design, and AI feature development.
 
 **What I built:**
-- 🔬 **Medical report verification model** (SVM, ~91% accuracy) — classifies uploaded reports as IBD or Non-IBD to gate platform access. [**Try the live demo →**](https://ibd-medical-report-classifier.onrender.com)
+- 🔬 **Medical report verification model** (SVM, ~91% accuracy) — classifies uploaded reports as IBD or Non-IBD to gate platform access. [**Try the live demo →**](https://ibd-medicalreport-classifier.onrender.com/)
 - 🎯 **Recommendation engine** — personalizes each new user's experience using 20+ onboarding signals (diagnosis type, symptom severity, daily-life impact)
 - 🗄️ **PostgreSQL schema** — designed the full relational data model including verification, consent, audit, and crowdsourced location tables
 - 📱 **Full platform design** — all core pages designed and frontend built; worked directly with designer in Figma
