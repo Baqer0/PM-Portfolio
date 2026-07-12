@@ -30,23 +30,23 @@ MyCCAngel is a healthcare platform I led from concept through a substantial work
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/ali0/ali0/blob/main/portfolio/MyCCAngel_CaseStudy_Deck.pdf" target="_blank">📊 Case Study — Slide Deck</a></td>
+    <td><a href="SupportingDocs/MyCCAngel_CaseStudy_Deck.pdf" target="_blank">📊 Case Study — Slide Deck</a></td>
     <td>Visual walkthrough of the product, AI features, and design process</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ali0/ali0/blob/main/portfolio/MyCCAngel_CaseStudy_OnePager.pdf" target="_blank">📝 Case Study — One Pager</a></td>
+    <td><a href="SupportingDocs/MyCCAngel_CaseStudy_OnePager.pdf" target="_blank">📝 Case Study — One Pager</a></td>
     <td>Concise summary of role, AI work, and key decisions</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ali0/ali0/blob/main/portfolio/MyCCAngel_CaseStudy_Full.pdf" target="_blank">📋 Case Study — Full</a></td>
+    <td><a href="SupportingDocs/MyCCAngel_CaseStudy_Full.pdf" target="_blank">📋 Case Study — Full</a></td>
     <td>Detailed end-to-end product case study</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ali0/ali0/blob/main/portfolio/MyCCAngel_PRD.pdf" target="_blank">📐 Product Requirements Document (PRD)</a></td>
+    <td><a href="SupportingDocs/MyCCAngel_PRD.pdf" target="_blank">📐 Product Requirements Document (PRD)</a></td>
     <td>Full feature specifications with build status</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ali0/ali0/blob/main/portfolio/MyCCAngel_Roadmap.pdf" target="_blank">🗺️ Product Roadmap</a></td>
+    <td><a href="SupportingDocs/MyCCAngel_Roadmap.pdf" target="_blank">🗺️ Product Roadmap</a></td>
     <td>Original MVP strategy and 6-phase roadmap</td>
   </tr>
 </table>
