@@ -1,60 +1,120 @@
-# YouTube Channel Analysis
+# ▶️ Global YouTube Creator Analytics Dashboard
 
-## Overview
-
-A comprehensive data analysis of the Global YouTube Statistics dataset using Tableau. After data cleaning and preprocessing, five visualizations explore trends in subscribers, earnings, video views, and geographic distribution across top YouTube channels.
-
----
-
-## Key Dataset Variables
-
-| Variable | Description |
-|---|---|
-| Youtuber / Rank | Channel name and overall ranking |
-| Subscribers / Video Views | Total reach metrics |
-| Category / Channel Type | Content classification |
-| Monthly / Yearly Earnings | Estimated revenue range |
-| Country | Channel origin country |
-| Subscribers for Last 30 Days | Recent growth indicator |
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau&logoColor=white)
+![Dataset](https://img.shields.io/badge/Dataset-YouTube%20Creators-red)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ---
 
-## Visualizations
+## 📖 Project Overview
 
-**1. Top 10 Channels by Subscribers**
-<div align="center">
-  <img src="../../asset/Top 10 Earning Youtubers per Month in Entertainment.png" alt="Top 10 Earning Youtubers" width="650" height="450">
-</div>
+This interactive Tableau dashboard explores the performance of the world's leading YouTube creators through subscriber counts, video views, earnings, uploads, and geographic distribution.
 
-**2. Top 10 YouTubers with the Most Subscribers**
-<div align="center">
-  <img src="../../asset/Top 10 YouTubers with the Most Subscribers.png" alt="Top 10 Youtubers" width="650" height="450">
-</div>
-
-**3. Relationship between Uploads, Views, and Subscriptions**
-<div align="center">
-  <img src="../../asset/Relationship between.png" alt="Relationship between metrics" width="650" height="450">
-</div>
-
-**4. YouTube Country Analysis**
-<div align="center">
-  <img src="../../asset/Youtube Total Subscribers by Country.png" alt="Youtube Country Analysis" width="650" height="450">
-</div>
-
-**5. Top 10 Countries with YouTube Channels**
-<div align="center">
-  <img src="../../asset/top 10 Countries with Youtube Channels.png" alt="Top 10 Countries" width="650" height="450">
-</div>
+Designed as an executive-style business intelligence dashboard, the project allows users to interactively explore creator performance using filters, parameter controls, and linked visualizations.
 
 ---
 
-## Technologies Used
+## 🚀 Live Dashboard
 
-- **Tableau** — interactive dashboards and visualizations
-- **Dataset:** <a href="https://www.kaggle.com/datasets/naniruddhan/global-youtube-statistics-data/data" target="_blank">Global YouTube Statistics (Kaggle)</a>
+> **Coming Soon — Tableau Public**
 
 ---
 
-## Files
+## 📸 Dashboard Preview
 
-- <a href="https://drive.google.com/drive/folders/1c8KcmZglTCvGI5g8ilYHTmbfX0ZUICa8" target="_blank">📁 Tableau workbook and dataset files</a>
+<p align="center">
+<img src="../../assets/Youtube_Dashboard.png" width="900">
+</p>
+
+---
+
+# 📊 Dashboard Features
+
+### 🌍 Global Subscriber Distribution
+
+Interactive world map displaying subscriber totals by country.
+
+---
+
+### 📈 Dynamic Top 10 Analysis
+
+Compare the Top 10 YouTube creators by:
+
+- Subscribers
+- Video Views
+- Uploads
+
+---
+
+### 💰 Highest Monthly Earnings
+
+Explore the highest-earning YouTube channels by category.
+
+---
+
+### 🌎 Country Distribution
+
+Treemap visualizing the countries with the highest concentration of successful YouTube channels.
+
+---
+
+### 📉 Performance Relationship Analysis
+
+Analyze relationships between:
+
+- Average Monthly Earnings
+- Subscribers
+- Video Views
+- Upload Count
+
+---
+
+# 🎯 Business Questions
+
+- Which countries produce the largest YouTube creators?
+- Which channels earn the highest monthly revenue?
+- Does subscriber count correlate with earnings?
+- Are more uploads associated with higher views?
+- Which creator categories dominate the platform?
+
+---
+
+# 💡 Key Insights
+
+- The United States and India dominate creator representation.
+- High subscriber counts do not always translate to the highest earnings.
+- Entertainment channels generate the largest monthly revenue.
+- Upload frequency alone is not a strong predictor of channel success.
+- Geographic location plays a significant role in creator distribution.
+
+---
+
+# 🛠 Tools Used
+
+- Tableau
+- Data Visualization
+- Dashboard Design
+- Parameter Actions
+- Calculated Fields
+- Interactive Filters
+
+---
+
+# 📂 Dataset
+
+**Source**
+
+YouTube Creator Statistics Dataset
+
+---
+
+# 👨‍💻 Skills Demonstrated
+
+- Dashboard Design
+- Data Storytelling
+- KPI Development
+- Interactive Analytics
+- Executive Dashboard Design
+- Geographic Visualization
+- Parameter Controls
+- Trend Analysis
